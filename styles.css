@@ -1,0 +1,21 @@
+
+h1{
+   color: black;
+   font-weight: bold;
+}
+div{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+label{
+    font-size: larger;
+    font-weight: 500;
+    color:black
+}
+
+input{
+    width: 200px;
+    height: 50px;
+    border-radius: 5%;
+    border-width: 2px;
+}
